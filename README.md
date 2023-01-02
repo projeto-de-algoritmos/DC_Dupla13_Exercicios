@@ -30,3 +30,7 @@ Exemplo:
 ```
 python3 /<pasta_exercicio>/<numero_exercicio>.py
 ```
+
+## Referências para os exercícios
+
+* https://leetcode.com/problems/maximum-subarray/solutions/1595195/c-python-7-simple-solutions-w-explanation-brute-force-dp-kadane-divide-conquer/?orderBy=hot
