@@ -1,5 +1,3 @@
-# DC_Dupla13_Exercicios
-
 # Dupla13_Exercicios
 
 **Número da Lista**: 13<br>
