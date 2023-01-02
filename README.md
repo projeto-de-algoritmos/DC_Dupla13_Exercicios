@@ -13,7 +13,9 @@
 Descreva os objetivos do seu projeto e como ele funciona. 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![image](https://user-images.githubusercontent.com/54074370/210278659-42e0daa4-438b-4fee-b488-d22d55285344.png)
+![image](https://user-images.githubusercontent.com/54074370/210278684-8dc331a5-9aa0-401d-acf3-ecf37fc6957c.png)
+
 
 ## Instalação 
 **Linguagem**: Python<br>
