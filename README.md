@@ -18,6 +18,10 @@ O objetivo do projeto é através de exercícios de [Dividir e Conquistar do Lee
 ![Captura de tela de 2023-01-02 18-27-10](https://user-images.githubusercontent.com/54070461/210279222-9f36784a-e2ef-43cf-8659-2bd28ee2159d.png)
 ![Captura de tela de 2023-01-02 18-27-39](https://user-images.githubusercontent.com/54070461/210279232-d6d37f65-5a85-44fe-a99c-d66e4a44cd09.png)
 
+## Apresentação
+
+https://user-images.githubusercontent.com/54070461/210282498-aee69d68-e751-4627-b26d-17fe5bb9ef9a.mp4
+
 
 ## Instalação 
 **Linguagem**: Python<br>
