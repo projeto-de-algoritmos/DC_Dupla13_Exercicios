@@ -10,7 +10,7 @@
 | 18/0017659  |  Giovana Vitor Dionísio Santana |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O objetivo do projeto é através de exercícios de [Dividir e Conquistar do LeetCode](https://leetcode.com/tag/divide-and-conquer/) exercitar e aplicar os conhecimentos obtidos em sala de aula sobre o método de programação como seus algoritmos.
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/54074370/210278659-42e0daa4-438b-4fee-b488-d22d55285344.png)
@@ -20,10 +20,11 @@ Descreva os objetivos do seu projeto e como ele funciona.
 ## Instalação 
 **Linguagem**: Python<br>
 **Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
+Como pré requisito é necessário ser uma versão python3 da linguagem
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para rodar o projeto é necessário somente entrar na pasta do exercício e rodar o arquivo com o número do mesmo. 
+Exemplo:
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+```
+python3 /<pasta_exercicio>/<numero_exercicio>.py
+```
